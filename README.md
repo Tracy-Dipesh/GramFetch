@@ -116,9 +116,8 @@ Want to contribute? Fork the repo, create an issue, or submit a pull request! Al
 
 ## 💬 **Socials & Contact** 🌐
 
-- [GitHub](https://github.com/your-username)  
-- [Twitter](https://twitter.com/your-twitter)  
-- [LinkedIn](https://linkedin.com/in/your-linkedin)
+- [GitHub](https://github.com/Tracy-Dipesh)  
+- [Instagram](https://www.instagram.com/h04x.dipesh)
 
 ---
 
