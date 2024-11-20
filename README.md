@@ -21,7 +21,7 @@ Download Instagram media (posts, images, videos) by username with amazing filter
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/GramFetch.git
+git clone https://github.com/Tracy-Dipesh/GramFetch.git
 cd GramFetch
 ```
 
